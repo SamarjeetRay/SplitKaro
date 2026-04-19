@@ -1,0 +1,17 @@
+{
+  "name": "SplitKaro",
+  "short_name": "SplitKaro",
+  "description": "Smart group expense splitter",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d0d10",
+  "theme_color": "#6ee7b7",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
