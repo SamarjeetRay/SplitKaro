@@ -4,8 +4,8 @@
   "description": "Smart group expense splitter",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0d0d10",
-  "theme_color": "#0d0d10",
+  "background_color": "#6c63ff",
+  "theme_color": "#6c63ff",
   "icons": [
     {
       "src": "/icons/icon-192.png",
