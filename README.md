@@ -35,8 +35,8 @@ Track spending, minimize transactions, and settle instantly — all in your brow
 
 | Category    | Tech                     |
 | ----------- | ------------------------ |
-| Frontend    | React 18 + Vite          |
-| Routing     | React Router v6          |
+| Frontend    | React 19 + Vite          |
+| Routing     | React Router v7          |
 | State       | Context API + useReducer |
 | Forms       | React Hook Form          |
 | Performance | useMemo                  |
